@@ -8,3 +8,6 @@ p{
     border: 2px solid gray;
     text-align: justify;
 }
+.text{
+    font-family: 'Times New Roman', Times, serif;
+}
