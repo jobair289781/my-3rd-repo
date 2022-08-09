@@ -1,0 +1,10 @@
+h1{
+    color: brown;
+    border: 2px dotted black;
+    text-align: center;
+}
+p{
+    background-color: cadetblue;
+    border: 2px solid gray;
+    text-align: justify;
+}
